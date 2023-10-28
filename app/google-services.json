@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "667754413849",
+    "project_id": "ekart-59bf7",
+    "storage_bucket": "ekart-59bf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667754413849:android:8419f02cc2898d2c6dcf88",
+        "android_client_info": {
+          "package_name": "com.example.ekart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667754413849-s3lpbuar26ngtkib583t452ofb2tqb9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCM6suObah3zUH3gFjRRSf4vkqbTow7Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667754413849-s3lpbuar26ngtkib583t452ofb2tqb9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667754413849:android:19e21dbb037407926dcf88",
+        "android_client_info": {
+          "package_name": "com.example.ekartadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667754413849-s3lpbuar26ngtkib583t452ofb2tqb9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCM6suObah3zUH3gFjRRSf4vkqbTow7Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667754413849-s3lpbuar26ngtkib583t452ofb2tqb9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
